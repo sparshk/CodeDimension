@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a\ row
+comment0.target=void\ showSeats(int[][],\ int)
+comment1.params=a\ row\ y
+comment1.target=boolean\ isokay(int[][],\ int,\ int)
+comment2.params=a\ row\ y
+comment2.target=void\ chooseSeat(int[][],\ int,\ int)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=b\ h
+comment0.target=double\ area(double,\ double)
+comment1.params=d1\ d2
+comment1.target=double\ area(int,\ int)
+comment2.params=a\ b\ h
+comment2.target=double\ area(double,\ double,\ double)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
